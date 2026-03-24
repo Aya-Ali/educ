@@ -1,0 +1,48 @@
+<html>
+</head>
+
+<body>
+	<div id="h5p-container"></div>
+
+	<script src="https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/main.bundle.js"></script>
+
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+
+			const player = new H5PStandalone.H5P(
+				document.getElementById("h5p-container"),
+				{
+					h5pJsonPath: "/h5p-content",
+					frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/frame.bundle.js',
+					frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/styles/h5p.css',
+				}
+			);
+
+			// 🔥 أهم جزء (tracking حقيقي)
+			window.H5P = window.H5P || {};
+
+			window.H5P.externalDispatcher = window.H5P.externalDispatcher || {
+				on: function () { }
+			};
+
+			// استني شوية عشان H5P يجهز
+			setTimeout(() => {
+				if (window.H5P && window.H5P.externalDispatcher) {
+					window.H5P.externalDispatcher.on('xAPI', function (event) {
+						console.log("📊 xAPI EVENT:", event);
+
+						// ابعتيه للـ React
+						parent.postMessage({
+							type: "H5P_RESULT",
+							data: event.data.statement
+						}, "*");
+					});
+				}
+			}, 2000);
+
+		});
+	</script>
+</body>
+
+</html>
