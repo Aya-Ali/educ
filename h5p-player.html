@@ -9,15 +9,26 @@
 
 	<script>
 		document.addEventListener("DOMContentLoaded", function () {
+			const params = new URLSearchParams(window.location.search);
+			const path = params.get("path");
 
 			const player = new H5PStandalone.H5P(
 				document.getElementById("h5p-container"),
 				{
-					h5pJsonPath: "/h5p-content",
+				    librariesPath: "/libraries",
+					h5pJsonPath: path,
 					frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/frame.bundle.js',
 					frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/styles/h5p.css',
 				}
 			);
+			// const player = new H5PStandalone.H5P(
+			// 	document.getElementById("h5p-container"),
+			// 	{
+			// 		h5pJsonPath: "/h5p-content",
+			// 		frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/frame.bundle.js',
+			// 		frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@latest/dist/styles/h5p.css',
+			// 	}
+			// );
 
 			// 🔥 أهم جزء (tracking حقيقي)
 			window.H5P = window.H5P || {};
