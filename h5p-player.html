@@ -42,8 +42,6 @@
 				if (window.H5P && window.H5P.externalDispatcher) {
 					window.H5P.externalDispatcher.on('xAPI', function (event) {
 						console.log("📊 xAPI EVENT:", event);
-
-						// ابعتيه للـ React
 						parent.postMessage({
 							type: "H5P_RESULT",
 							data: event.data.statement
