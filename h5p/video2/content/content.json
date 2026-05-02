@@ -1,1 +1,1101 @@
-{"interactiveVideo":{"video":{"startScreenOptions":{"title":"Interactive Video","hideStartTitle":false},"textTracks":{"videoTrack":[{"label":"Subtitles","kind":"subtitles","srcLang":"en"}]},"files":[{"path":"videos\/files-69a453cd5dfae.mp4","mime":"video\/mp4","copyright":{"license":"U"},"metadata":{"qualityName":"\u062a\u062a\u0627\u0628\u0639 \u0627\u0644\u0645\u0644\u062e\u0635 : \u0643\u064a\u0641 \u0646\u0635\u0645\u0645 \u0639\u0631\u0636\u0627 \u064a\u062c\u0630\u0628 \u0627\u0644\u0627\u062e\u0631\u064a\u0646"}}]},"assets":{"interactions":[{"x":23.990869760422605,"y":35.33891850723534,"width":10,"height":10,"duration":{"from":201.689,"to":202.689},"libraryTitle":"Free Text Question","action":{"library":"H5P.FreeTextQuestion 1.0","params":{"placeholder":"........................","maxScore":5,"isRequired":true,"i10n":{"requiredText":"required","requiredMessage":"This question requires an answer","skipButtonLabel":"Skip Question","submitButtonLabel":"Answer and proceed","language":"en"},"question":"\u0645\u0646 \u0648\u062c\u0647\u0629 \u0646\u0638\u0631\u0643.... \u0645\u0627 \u0647\u064a \u0639\u0646\u0627\u0635\u0631\u0639\u0631\u0636 \u062c\u0630\u0627\u0628"},"subContentId":"21c91983-1f16-4f31-9829-60cc39b50927","metadata":{"contentType":"Free Text Question","license":"U","title":"\u0627\u0643\u062a\u0628 \u062a\u0639\u0644\u064a\u0642\u0643 \u0647\u0646\u0627"}},"pause":true,"displayType":"button","buttonOnMobile":false,"label":"<p>\u0627\u0643\u062a\u0628 \u062a\u0639\u0644\u064a\u0642\u0643&nbsp;<\/p>"},{"x":53.69385136856488,"y":29.44909875602945,"width":10,"height":10,"duration":{"from":273.7,"to":274.4},"libraryTitle":"True\/False Question","action":{"library":"H5P.TrueFalse 1.8","params":{"media":{"disableImageZooming":false},"correct":"true","behaviour":{"enableRetry":true,"enableSolutionsButton":true,"enableCheckButton":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false},"l10n":{"trueText":"True","falseText":"False","score":"You got @score of @total points","checkAnswer":"Check","submitAnswer":"Submit","showSolutionButton":"Show solution","tryAgain":"Retry","wrongAnswerMessage":"Wrong answer","correctAnswerMessage":"Correct answer","scoreBarLabel":"You got :num out of :total points","a11yCheck":"Check the answers. The responses will be marked as correct, incorrect, or unanswered.","a11yShowSolution":"Show the solution. The task will be marked with its correct solution.","a11yRetry":"Retry the task. Reset all responses and start the task over again."},"confirmCheck":{"header":"Finish ?","body":"\u0647\u0644 \u0623\u0646\u062a \u0645\u062a\u0623\u0643\u062f \u0645\u0646 \u0645\u0648\u0627\u0641\u0642\u062a\u0643 \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0627\u0641\u0642\u061f","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"\u0647\u0644 \u0623\u0646\u062a \u0645\u062a\u0623\u0643\u062f \u0645\u0646 \u0639\u062f\u0645 \u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629\u061f","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><strong>\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0648\u0633\u0627\u0626\u0637 \u0627\u0644\u0645\u062a\u0639\u062f\u062f\u0629 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0636 \u0623\u0643\u062b\u0631 \u062a\u0634\u0648\u064a\u0642\u064b\u0627<\/strong><\/p>"},"subContentId":"ba252e71-e287-4cc9-8dda-9ad33fc40f19","metadata":{"contentType":"True\/False Question","license":"U","title":"\u0633\u0624\u0627\u0644 \u0635\u062d \/\u063a\u0644\u0637"}},"pause":true,"displayType":"button","buttonOnMobile":false,"adaptivity":{"correct":{"allowOptOut":false,"message":""},"wrong":{"allowOptOut":false,"message":""},"requireCompletion":false},"label":"<p>\u0635\u062d\/\u063a\u0644\u0637<\/p>"},{"x":95.62075233082724,"y":92.20614369129221,"width":10,"height":10,"duration":{"from":346.704,"to":367.704},"libraryTitle":"Single Choice Set","action":{"library":"H5P.SingleChoiceSet 1.11","params":{"choices":[{"subContentId":"e09296a8-b089-4e31-a1d1-9362eaac257d","question":"<p><strong>\u0627\u0644\u0647\u062f\u0641 &nbsp;\u0627\u0644\u0627\u0633\u0627\u0633\u0649 \u0645\u0646 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\u064a \u0627\u0644\u062c\u0630\u0627\u0628 \u0647\u0648<\/strong><\/p>","answers":["<p>&nbsp; \u062c\u0630\u0628 \u0627\u0646\u062a\u0628\u0627\u0647 \u0627\u0644\u062c\u0645\u0647\u0648\u0631 \u0648\u062a\u0648\u0636\u064a\u062d \u0627\u0644\u0641\u0643\u0631\u0629<\/p>","<p>\u0625\u0637\u0627\u0644\u0629 \u0648\u0642\u062a \u0627\u0644\u0639\u0631\u0636<\/p>","<p>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0644\u0648\u0646 \u0648\u0627\u062d\u062f \u0641\u0642\u0637<\/p>","<p>\u0639\u062f\u0645 \u0625\u0636\u0627\u0641\u0629 \u0639\u0646\u0627\u0648\u064a\u0646<\/p>"]}],"overallFeedback":[{"from":0,"to":100,"feedback":"PowerPoint"}],"behaviour":{"autoContinue":true,"timeoutCorrect":2000,"timeoutWrong":3000,"soundEffectsEnabled":true,"enableRetry":true,"enableSolutionsButton":true,"passPercentage":100},"l10n":{"nextButtonLabel":"Next question","nextButton":"Next","showResultsButtonLabel":"Show results","retryButtonLabel":"Retry","solutionViewTitle":"Solution list","correctText":"Correct!","incorrectText":"Incorrect!","shouldSelect":"Should have been selected","shouldNotSelect":"Should not have been selected","muteButtonLabel":"Mute feedback sound","closeButtonLabel":"Close","slideOfTotal":"Slide :num of :total","scoreBarLabel":"You got :num out of :total points","solutionListQuestionNumber":"Question :num","a11yShowSolution":"Show the solution. The task will be marked with its correct solution.","a11yRetry":"Retry the task. Reset all responses and start the task over again.","resultHeader":"Your result:","totalScore":":score of :maxScore correct","resultTableHeader":"Question","resultScoreTableHeader":"Score","correctAnswerIntroduction":"Correct answer"}},"subContentId":"27ec6d12-7824-4779-bf14-55bb16f2a8ed","metadata":{"contentType":"Single Choice Set","license":"U","title":"\u0627\u062e\u062a\u064a\u0627\u0631 \u0645\u0646 \u0645\u062a\u0639\u062f\u062f"}},"pause":true,"displayType":"button","buttonOnMobile":false,"adaptivity":{"correct":{"allowOptOut":false,"message":""},"wrong":{"allowOptOut":false,"message":""},"requireCompletion":false},"label":"<p>\u062e\u064a\u0627\u0631\u0627\u062a \u0645\u062a\u0639\u062f\u062f\u0629<\/p>"},{"x":19.42118028224687,"y":32.49133018770627,"width":24.676323617948515,"height":6.397565269446028,"duration":{"from":174.175,"to":184.175},"libraryTitle":"Navigation Hotspot","action":{"library":"H5P.IVHotspot 1.2","params":{"destination":{"type":"timecode","url":{"protocol":"http:\/\/"},"time":184},"visuals":{"shape":"rectangular","backgroundColor":"rgba(255, 255, 255, 0)","pointerCursor":true,"animation":false},"texts":{"showLabel":false,"labelColor":"rgb(0, 0, 0)"}},"subContentId":"532967b1-cae5-4e84-9b48-d3827cdd973f","metadata":{"contentType":"Navigation Hotspot","license":"U"}},"pause":true,"displayType":"poster","buttonOnMobile":false},{"x":95.62075233082724,"y":92.20614369129221,"width":10,"height":10,"duration":{"from":437.091,"to":457.091},"libraryTitle":"Statements","action":{"library":"H5P.Summary 1.10","params":{"intro":"<p>\u0623\u064a \u0645\u0645\u0627 \u064a\u0644\u064a \u064a\u0633\u0627\u0639\u062f \u0639\u0644\u0649 \u0625\u0639\u062f\u0627\u062f \u0639\u0631\u0636 \u062a\u0642\u062f\u064a\u0645\u064a \u062c\u0630\u0627\u0628<\/p>","summaries":[{"subContentId":"63e79f7b-df41-4e5b-9151-e80db893cf8f","summary":["<p>\u062a\u062d\u062f\u064a\u062f \u0641\u0643\u0631\u0629 \u0627\u0644\u0639\u0631\u0636<\/p>","<p>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0644\u0648\u0627\u0646 \u063a\u064a\u0631 \u0645\u062a\u0646\u0627\u0633\u0642\u0647<\/p>","<p>\u0643\u062a\u0627\u0628\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0643\u062b\u064a\u0631\u0629<\/p>","<p>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0646\u0635\u0648\u0635 \u0641\u0642\u0637<\/p>"],"tip":""}],"overallFeedback":[{"from":0,"to":100,"feedback":"\u062a\u062d\u062f\u064a\u062f \u0641\u0643\u0631\u0629 \u0627\u0644\u0639\u0631\u0636"}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"caa435aa-1271-41e3-b359-2d62b39f1062","metadata":{"contentType":"Summary","license":"U","title":"\u0627\u062e\u062a\u0631 \u0627\u0644\u0639\u0628\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629"}},"pause":true,"displayType":"button","buttonOnMobile":false,"adaptivity":{"correct":{"allowOptOut":false,"message":""},"wrong":{"allowOptOut":false,"message":""}},"label":"<p>\u0627\u062e\u062a\u0631 \u0627\u0644\u0639\u0628\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629<\/p>"},{"x":95.62075233082724,"y":92.20614369129221,"width":10,"height":10,"duration":{"from":492.34,"to":502.34},"libraryTitle":"Multimedia Choice","action":{"library":"H5P.MultiMediaChoice 0.3","params":{"behaviour":{"aspectRatio":"16to9","enableRetry":true,"enableSolutionsButton":true,"confirmCheckDialog":false,"confirmRetryDialog":false,"singlePoint":false,"showSolutionsRequiresInput":true,"questionType":"auto","maxAlternativesPerRow":"4","passPercentage":100},"media":{"disableImageZooming":false},"options":[{"correct":false,"media":{"params":{"decorative":false,"contentName":"Image","expandImage":"Expand Image","minimizeImage":"Minimize Image","file":{"path":"images\/file-69a486bcdb05f.png","mime":"image\/png","copyright":{"license":"U"},"width":192,"height":192},"alt":"Powerpoint"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"U","title":"Untitled Image"},"subContentId":"d35310b0-0331-4ef0-8b3f-ed1d0645b068"}},{"correct":false,"media":{"params":{"decorative":false,"contentName":"Image","expandImage":"Expand Image","minimizeImage":"Minimize Image","file":{"path":"images\/file-69a4873c86c4b.png","mime":"image\/png","copyright":{"license":"U"},"width":512,"height":512},"alt":"Paint"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"U","title":"Untitled Image"},"subContentId":"fddc97c4-35a9-43f3-8f07-537dcde677fb"}},{"media":{"params":{"decorative":false,"contentName":"Image","expandImage":"Expand Image","minimizeImage":"Minimize Image","file":{"path":"images\/file-69a48b4cc638d.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":225,"height":225},"alt":"Word"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"U","title":"Untitled Image"},"subContentId":"7310f2a8-ac08-4054-8ca5-9b7a5084cc11"},"correct":true},{"media":{"params":{"decorative":false,"contentName":"Image","expandImage":"Expand Image","minimizeImage":"Minimize Image","file":{"path":"images\/file-69a48b6e80f9d.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":875,"height":535},"alt":"E-mail"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"U","title":"Untitled Image"},"subContentId":"e85155e6-51a6-4712-91df-ac569f334d68"},"correct":false}],"overallFeedback":[{"from":0,"to":100}],"l10n":{"checkAnswerButtonText":"Check","submitAnswerButtonText":"Submit","checkAnswer":"Check the answers. The responses will be marked as correct, incorrect, or unanswered.","showSolutionButtonText":"Show solution","showSolution":"Show the solution. The correct options will be marked.","correctAnswer":"Correct answer","wrongAnswer":"Wrong answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noAnswer":"Please answer before viewing the solution","retryText":"Retry","retry":"Retry the task. Reset all responses and start the task over again.","result":"You got :num out of :total points","missingAltText":"Alt text missing","closeModalText":"Close modal","confirmCheck":{"header":"Finish?","body":"Are you sure you want to finish?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry?","body":"Are you sure you wish to retry?","cancelLabel":"Cancel","confirmLabel":"Retry"}},"question":"<p>\u0623\u064a \u0645\u0646 \u0627\u0644\u0635\u0648\u0631 \u0627\u0644\u0627\u062a\u064a\u0646\u064a\u0629: \u0628\u0631\u0646\u0627\u0645\u062c \u0639\u0644\u0627\u062c \u0627\u0644\u0643\u0644\u0645\u0627\u062a&nbsp;<\/p>"},"subContentId":"824de6cd-175b-44f6-a7f9-77456974302e","metadata":{"contentType":"Multimedia Choice","license":"U","title":"\u0627\u062e\u062a\u0631 \u0627\u0644\u0635\u0648\u0631\u0629 \u0645\u0646\u0627\u0633\u0628\u0629"}},"pause":true,"displayType":"button","buttonOnMobile":false,"label":"<p>\u0627\u062e\u062a\u0631 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629<\/p>"}],"endscreens":[{"time":359.003719,"label":"5:59 Submit screen"},{"time":534.198277,"label":"8:54 Submit screen"}]},"summary":{"task":{"library":"H5P.Summary 1.10","params":{"intro":"\u0627\u062e\u062a\u0631 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629.","summaries":[{"subContentId":"19561217-3284-4ea0-93ee-8ae943f80c5f","tip":""}],"overallFeedback":[{"from":0,"to":100}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"f30706f9-04a2-4a16-a237-420a96b6d46a","metadata":{"contentType":"Summary","license":"U","title":"Untitled Summary"}},"displayAt":3}},"override":{"autoplay":false,"loop":false,"showBookmarksmenuOnLoad":false,"showRewind10":false,"preventSkippingMode":"none","deactivateSound":false},"l10n":{"interaction":"Interaction","play":"Play","pause":"Pause","mute":"Mute, currently unmuted","unmute":"Unmute, currently muted","quality":"Video Quality","captions":"Captions","close":"Close","fullscreen":"Fullscreen","exitFullscreen":"Exit Fullscreen","summary":"Open summary dialog","bookmarks":"Bookmarks","endscreen":"Submit screen","defaultAdaptivitySeekLabel":"Continue","continueWithVideo":"Continue with video","more":"More player options","playbackRate":"Playback Rate","rewind10":"Rewind 10 Seconds","navDisabled":"Navigation is disabled","navForwardDisabled":"Navigating forward is disabled","sndDisabled":"Sound is disabled","requiresCompletionWarning":"You need to answer all the questions correctly before continuing.","back":"Back","hours":"Hours","minutes":"Minutes","seconds":"Seconds","currentTime":"Current time:","totalTime":"Total time:","singleInteractionAnnouncement":"Interaction appeared:","multipleInteractionsAnnouncement":"Multiple interactions appeared.","videoPausedAnnouncement":"Video is paused","content":"Content","answered":"@answered answered","endcardTitle":"@answered Question(s) answered","endcardInformation":"You have answered @answered questions, click below to submit your answers.","endcardInformationOnSubmitButtonDisabled":"You have answered @answered questions.","endcardInformationNoAnswers":"You have not answered any questions.","endcardInformationMustHaveAnswer":"You have to answer at least one question before you can submit your answers.","endcardSubmitButton":"Submit Answers","endcardSubmitMessage":"Your answers have been submitted!","endcardTableRowScore":"Score","endcardQuestion":"Question","endcardAnsweredScore":"answered","endCardTableRowSummaryWithScore":"You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.","endCardTableRowSummaryWithoutScore":"You have answered the @question that appeared after @minutes minutes and @seconds seconds.","videoProgressBar":"Video progress","howToCreateInteractions":"Play the video to start creating interactions"}}
+{
+  "interactiveVideo": {
+    "video": {
+      "startScreenOptions": {
+        "title": "Interactive Video",
+        "hideStartTitle": false
+      },
+      "textTracks": {
+        "videoTrack": [
+          { "label": "Subtitles", "kind": "subtitles", "srcLang": "en" }
+        ]
+      },
+      "files": [
+        {
+          "path": "https://res.cloudinary.com/djythfe68/video/upload/v1777736686/files-69bf2a7535c99_j8qir2.mp4",
+          "mime": "video\/mp4",
+          "copyright": {
+            "license": "U",
+            "author": "\u0648\u0644\u0627\u0621 \u0623\u062d\u0645\u062f",
+            "title": "\u0641\u064a\u062f\u064a\u0648 \u062a\u0641\u0627\u0639\u0644\u064a"
+          },
+          "metadata": {
+            "qualityName": "\u062a\u062a\u0627\u0628\u0639 \u0627\u0644\u0627\u0628\u0631\u0627\u0632"
+          }
+        }
+      ]
+    },
+    "assets": {
+      "interactions": [
+        {
+          "x": 26.275715589009344,
+          "y": 46.71236354404671,
+          "width": 6.854534217263602,
+          "height": 1.8278757912702939,
+          "duration": { "from": 19.599, "to": 20.599 },
+          "libraryTitle": "Navigation Hotspot",
+          "action": {
+            "library": "H5P.IVHotspot 1.2",
+            "params": {
+              "destination": {
+                "type": "url",
+                "url": {
+                  "protocol": "https:\/\/",
+                  "url": "www.youtube.com\/watch?v=w7SP8Tv9WNE"
+                }
+              },
+              "visuals": {
+                "shape": "rectangular",
+                "backgroundColor": "rgba(255, 255, 255, 0)",
+                "pointerCursor": true,
+                "animation": false
+              },
+              "texts": { "showLabel": false, "labelColor": "rgb(0, 0, 0)" }
+            },
+            "subContentId": "e3746e64-58f7-4178-806b-3200899a366e",
+            "metadata": { "contentType": "Navigation Hotspot", "license": "U" }
+          },
+          "pause": false,
+          "displayType": "poster",
+          "buttonOnMobile": false
+        },
+        {
+          "x": 19.421181371745742,
+          "y": 32.49343751983371,
+          "width": 24.59635361628089,
+          "height": 6.397565269446028,
+          "duration": { "from": 174, "to": 174.89 },
+          "libraryTitle": "Navigation Hotspot",
+          "action": {
+            "library": "H5P.IVHotspot 1.2",
+            "params": {
+              "destination": {
+                "type": "timecode",
+                "url": { "protocol": "http:\/\/" },
+                "time": 174.62
+              },
+              "visuals": {
+                "shape": "rectangular",
+                "backgroundColor": "rgba(255, 255, 255, 0)",
+                "pointerCursor": true,
+                "animation": false
+              },
+              "texts": { "showLabel": false, "labelColor": "rgb(0, 0, 0)" }
+            },
+            "subContentId": "fe1e12ba-a1d7-4e57-9ca2-5d51d71838ce",
+            "metadata": { "contentType": "Navigation Hotspot", "license": "U" }
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": false
+        },
+        {
+          "x": 3.4272671086318005,
+          "y": 6.092916984006093,
+          "width": 10.053316851986615,
+          "height": 6.52656760341493,
+          "duration": { "from": 48.115, "to": 64.115 },
+          "libraryTitle": "Drag the Words",
+          "action": {
+            "library": "H5P.DragText 1.10",
+            "params": {
+              "media": {
+                "type": {
+                  "params": {
+                    "visuals": { "fit": true, "controls": true },
+                    "playback": { "autoplay": false, "loop": false },
+                    "l10n": {
+                      "name": "Video",
+                      "loading": "Video player loading...",
+                      "noPlayers": "Found no video players that supports the given video format.",
+                      "noSources": "Video is missing sources.",
+                      "aborted": "Media playback has been aborted.",
+                      "networkFailure": "Network failure.",
+                      "cannotDecode": "Unable to decode media.",
+                      "formatNotSupported": "Video format not supported.",
+                      "mediaEncrypted": "Media encrypted.",
+                      "unknownError": "Unknown error.",
+                      "invalidYtId": "Invalid YouTube ID.",
+                      "unknownYtId": "Unable to find video with the given YouTube ID.",
+                      "restrictedYt": "The owner of this video does not allow it to be embedded."
+                    },
+                    "sources": [
+                      {
+                        "path": "https:\/\/www.youtube.com\/results?search_query=%D8%AE%D8%B7%D9%88%D8%A7%D8%AA+%D9%81%D8%AA%D8%AD+%D9%88%D8%A7%D9%86%D8%B4%D8%A7%D8%A1+%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B6+%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85%D9%8A%D8%A9",
+                        "mime": "video\/unknown",
+                        "copyright": { "license": "U" }
+                      }
+                    ]
+                  },
+                  "library": "H5P.Video 1.6",
+                  "metadata": {
+                    "contentType": "Video",
+                    "license": "U",
+                    "title": "\u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\u064a\u0629"
+                  },
+                  "subContentId": "56181abb-006c-41be-b768-b97881f3649f"
+                },
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [{ "from": 0, "to": 100 }],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+            },
+            "subContentId": "afe1ab60-6e86-493d-9328-59e0acdcc652",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\u064a\u0629"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" },
+            "requireCompletion": false
+          },
+          "label": "<p>\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0639\u0631\u0648\u0636 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\u064a\u0629<\/p>"
+        },
+        {
+          "x": 91.39378956351469,
+          "y": 7.514597613607514,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 54, "to": 64 },
+          "libraryTitle": "Drag the Words",
+          "action": {
+            "library": "H5P.DragText 1.10",
+            "params": {
+              "media": {
+                "type": {
+                  "params": {
+                    "visuals": { "fit": true, "controls": true },
+                    "playback": { "autoplay": false, "loop": false },
+                    "l10n": {
+                      "name": "Video",
+                      "loading": "Video player loading...",
+                      "noPlayers": "Found no video players that supports the given video format.",
+                      "noSources": "Video is missing sources.",
+                      "aborted": "Media playback has been aborted.",
+                      "networkFailure": "Network failure.",
+                      "cannotDecode": "Unable to decode media.",
+                      "formatNotSupported": "Video format not supported.",
+                      "mediaEncrypted": "Media encrypted.",
+                      "unknownError": "Unknown error.",
+                      "invalidYtId": "Invalid YouTube ID.",
+                      "unknownYtId": "Unable to find video with the given YouTube ID.",
+                      "restrictedYt": "The owner of this video does not allow it to be embedded."
+                    }
+                  },
+                  "library": "H5P.Video 1.6",
+                  "metadata": {
+                    "contentType": "Video",
+                    "license": "U",
+                    "title": "Moive Maker"
+                  },
+                  "subContentId": "0a193e33-45a3-4140-8429-266a46560b83"
+                },
+                "disableImageZooming": false
+              },
+              "taskDescription": "Drag the words into the correct boxes",
+              "overallFeedback": [{ "from": 0, "to": 100 }],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+            },
+            "subContentId": "b04853ac-d451-43aa-91fd-d1b5b37f96cf",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Moive Maker \u0628\u0631\u0646\u0627\u0645\u062c"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" },
+            "requireCompletion": false
+          },
+          "label": "<p>&nbsp;Moive Maker \u0628\u0631\u0646\u0627\u0645\u062c&nbsp;<\/p>"
+        },
+        {
+          "x": 38.84236056449374,
+          "y": 54.836252856054834,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 63.271, "to": 64 },
+          "libraryTitle": "Drag the Words",
+          "action": {
+            "library": "H5P.DragText 1.10",
+            "params": {
+              "media": {
+                "type": {
+                  "params": {
+                    "visuals": { "fit": true, "controls": true },
+                    "playback": { "autoplay": false, "loop": false },
+                    "l10n": {
+                      "name": "Video",
+                      "loading": "Video player loading...",
+                      "noPlayers": "Found no video players that supports the given video format.",
+                      "noSources": "Video is missing sources.",
+                      "aborted": "Media playback has been aborted.",
+                      "networkFailure": "Network failure.",
+                      "cannotDecode": "Unable to decode media.",
+                      "formatNotSupported": "Video format not supported.",
+                      "mediaEncrypted": "Media encrypted.",
+                      "unknownError": "Unknown error.",
+                      "invalidYtId": "Invalid YouTube ID.",
+                      "unknownYtId": "Unable to find video with the given YouTube ID.",
+                      "restrictedYt": "The owner of this video does not allow it to be embedded."
+                    }
+                  },
+                  "library": "H5P.Video 1.6",
+                  "metadata": {
+                    "contentType": "Video",
+                    "license": "U",
+                    "title": "Word Art"
+                  },
+                  "subContentId": "c019cf34-2a00-4a22-810e-b525eba89d2f"
+                },
+                "disableImageZooming": false
+              },
+              "taskDescription": "<p>Word Art<\/p>",
+              "overallFeedback": [{ "from": 0, "to": 100 }],
+              "checkAnswer": "Check",
+              "submitAnswer": "Submit",
+              "tryAgain": "Retry",
+              "showSolution": "Show solution",
+              "dropZoneIndex": "Drop Zone @index.",
+              "empty": "Drop Zone @index is empty.",
+              "contains": "Drop Zone @index contains draggable @draggable.",
+              "ariaDraggableIndex": "@index of @count draggables.",
+              "tipLabel": "Show tip",
+              "correctText": "Correct!",
+              "incorrectText": "Incorrect!",
+              "resetDropTitle": "Reset drop",
+              "resetDropDescription": "Are you sure you want to reset this drop zone?",
+              "grabbed": "Draggable is grabbed.",
+              "cancelledDragging": "Cancelled dragging.",
+              "correctAnswer": "Correct answer:",
+              "feedbackHeader": "Feedback",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "instantFeedback": false
+              },
+              "scoreBarLabel": "You got :num out of :total points",
+              "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+              "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+              "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+            },
+            "subContentId": "c2f34c6a-6a92-4810-9a2a-28e7af232b4b",
+            "metadata": {
+              "contentType": "Drag the Words",
+              "license": "U",
+              "title": "Word Art"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" },
+            "requireCompletion": false
+          },
+          "label": "<p>&nbsp;Word Art\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0634\u0643\u0627\u0644 \u0628\u0627\u0644\u0640\u0640&nbsp;<\/p>"
+        },
+        {
+          "x": 67.40291980309208,
+          "y": 34.52652957603453,
+          "width": 9.596349734527148,
+          "height": 5.483627373810881,
+          "duration": { "from": 71.64, "to": 81.64 },
+          "libraryTitle": "Navigation Hotspot",
+          "action": {
+            "library": "H5P.IVHotspot 1.2",
+            "params": {
+              "destination": {
+                "type": "url",
+                "url": {
+                  "protocol": "https:\/\/",
+                  "url": "translate.google.com\/translate?u=https:\/\/www.canva.com\/learn\/beginners-guide-to-creating-more-engaging-presentations\/&amp;hl=ar&amp;sl=en&amp;tl=ar&amp;client=srp"
+                },
+                "time": 81
+              },
+              "visuals": {
+                "shape": "rounded-rectangle",
+                "backgroundColor": "rgba(255, 255, 255, 0)",
+                "pointerCursor": true,
+                "animation": false
+              },
+              "texts": {
+                "showLabel": false,
+                "labelColor": "rgb(0, 0, 0)",
+                "alternativeText": "....\u0627\u0646\u062a\u0628\u0647"
+              }
+            },
+            "subContentId": "3483cb9a-30e3-4228-a259-d582f097cf09",
+            "metadata": { "contentType": "Navigation Hotspot", "license": "U" }
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": false
+        },
+        {
+          "x": 38.84236056449374,
+          "y": 62.96014216806296,
+          "width": 9.999531606828487,
+          "height": 2.741336747879093,
+          "duration": { "from": 76.28, "to": 86.28 },
+          "libraryTitle": "Text",
+          "action": {
+            "library": "H5P.Text 1.1",
+            "params": {
+              "text": "<p><strong>\u0628\u0631\u0646\u0627\u0645\u062c &nbsp;canvas \u0644\u062a\u0635\u0645\u064a\u0645 \u0635\u0648\u0631 \u062c\u0630\u0627\u0628\u0629 \u0648\u0642\u0648\u0627\u0644\u0628 \u062c\u0627\u0647\u0632\u0629<\/strong><\/p>"
+            },
+            "subContentId": "1af4adff-9c0c-4bcd-9061-d939d1c2eda3",
+            "metadata": {
+              "contentType": "Text",
+              "license": "U",
+              "title": "Untitled Text"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          },
+          "goto": {
+            "url": { "protocol": "http:\/\/" },
+            "visualize": false,
+            "type": ""
+          },
+          "label": "<p>\u0639\u0632\u064a\u0632\u0649 \u0627\u0644\u0637\u0627\u0644\u0628 ... \u0627\u0646\u062a\u0628\u0647<\/p>"
+        },
+        {
+          "x": 43.41205004266948,
+          "y": 26.402638327140256,
+          "width": 6.800749407905022,
+          "height": 6.800749407905022,
+          "duration": { "from": 78.46, "to": 88.46 },
+          "libraryTitle": "Image",
+          "action": {
+            "library": "H5P.Image 1.1",
+            "params": {
+              "decorative": false,
+              "contentName": "Image",
+              "expandImage": "Expand Image",
+              "minimizeImage": "Minimize Image",
+              "file": {
+                "path": "images\/file-69c3abbf5610d.png",
+                "mime": "image\/png",
+                "copyright": { "license": "U" },
+                "width": 350,
+                "height": 350
+              }
+            },
+            "subContentId": "84035036-e571-4dca-8526-3b251224398a",
+            "metadata": {
+              "contentType": "Image",
+              "license": "U",
+              "title": "Untitled Image"
+            }
+          },
+          "visuals": { "backgroundColor": "rgba(0,0,0,0)", "boxShadow": true },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": false,
+          "goto": {
+            "url": { "protocol": "http:\/\/" },
+            "visualize": false,
+            "type": ""
+          },
+          "label": ""
+        },
+        {
+          "x": 49.124161890389146,
+          "y": 50.774308200050775,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 120.95, "to": 123.949 },
+          "libraryTitle": "Link",
+          "action": {
+            "library": "H5P.Link 1.3",
+            "params": {
+              "linkWidget": {
+                "protocol": "https:\/\/",
+                "url": "translate.google.com\/translate?u=https:\/\/speakingaboutpresenting.com\/delivery\/tips-eye-contact\/&amp;hl=ar&amp;sl=en&amp;tl=ar&amp;client=srp"
+              },
+              "title": "\u062a\u0630\u0643\u064a\u0631.. \u0644\u0628\u0639\u0636 \u0627\u0644\u0646\u0635\u0627\u0626\u062d"
+            },
+            "subContentId": "404062a1-ba74-4d95-b15e-8c292d452073",
+            "metadata": { "contentType": "Link", "license": "U" }
+          },
+          "displayType": "poster",
+          "visuals": {
+            "backgroundColor": "rgba(0,0,0,0.5)",
+            "boxShadow": true
+          },
+          "pause": true,
+          "buttonOnMobile": false
+        },
+        {
+          "x": 9.139378956351468,
+          "y": 83.26986544808327,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 139.627, "to": 145.627 },
+          "libraryTitle": "Link",
+          "action": {
+            "library": "H5P.Link 1.3",
+            "params": {
+              "linkWidget": {
+                "protocol": "https:\/\/",
+                "url": "msaaq.com\/blog\/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%B9%D8%B1%D9%88%D8%B6-%D8%AA%D9%82%D8%AF%D9%8A%D9%85%D9%8A%D8%A9"
+              },
+              "title": "\u0628\u0639\u0636 \u0646\u0635\u0627\u0626\u062d \u0627\u0644\u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0645\u0646\u0637\u0642\u0649 \u0627\u0644\u0634\u0631\u0627\u0626\u062d \u0628\u0641\u0639\u0627\u0644\u064a\u0629"
+            },
+            "subContentId": "a8e0689a-b794-4e82-93ab-38eff4d3e6a2",
+            "metadata": { "contentType": "Link", "license": "U" }
+          },
+          "displayType": "poster",
+          "visuals": {
+            "backgroundColor": "rgba(0,0,0,0.5)",
+            "boxShadow": true
+          },
+          "pause": true,
+          "buttonOnMobile": false
+        },
+        {
+          "x": 47.98173952084521,
+          "y": 81.23889312008124,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 161.39, "to": 162.39 },
+          "libraryTitle": "Link",
+          "action": {
+            "library": "H5P.Link 1.3",
+            "params": {
+              "linkWidget": {
+                "protocol": "https:\/\/",
+                "url": "www.google.com\/search?sca_esv=8f19c72cf42aa264&amp;biw=1280&amp;bih=559&amp;sxsrf=ANbL-n6OdGSnX_L3BRtYAPCZevCSZ8Cf2g:1774441276503&amp;q=%D8%A8%D8%B1%D8%A7%D9%85%D8%AC+%D8%AC%D9%8A%D8%AF+%D9%84%D9%85%D9%86%D8%AA%D8%A7%D8%AC+%D8%A7%D9%84%D8%B5%D9%88%D8%AA+%D9%88%D"
+              },
+              "title": "Audcity\u0628\u0631\u0627\u0645\u062c \u0644\u0639\u0645\u0644 \u0644\u0639\u0645\u0644 \u062a\u0639\u062f\u064a\u0644 \u0644\u0644\u0635\u0648\u062a \u0627\u0644\u0645\u062c\u0627\u0646\u0649"
+            },
+            "subContentId": "e39765d5-d49c-42b9-87a1-f5ff77b1a2ee",
+            "metadata": { "contentType": "Link", "license": "U" }
+          },
+          "displayType": "poster",
+          "visuals": {
+            "backgroundColor": "rgba(0,0,0,0.5)",
+            "boxShadow": true
+          },
+          "pause": true,
+          "buttonOnMobile": false
+        },
+        {
+          "x": 27.418136869054404,
+          "y": 40.61944656004062,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 203.997, "to": 204.997 },
+          "libraryTitle": "Free Text Question",
+          "action": {
+            "library": "H5P.FreeTextQuestion 1.0",
+            "params": {
+              "placeholder": "........................",
+              "maxScore": 1,
+              "isRequired": true,
+              "i10n": {
+                "requiredText": "required",
+                "requiredMessage": "This question requires an answer",
+                "skipButtonLabel": "Skip Question",
+                "submitButtonLabel": "Answer and proceed",
+                "language": "en"
+              },
+              "question": "\u0645\u0646 \u0648\u062c\u0647\u0629 \u0646\u0638\u0631\u0643.... \u0645\u0627 \u0647\u064a \u0639\u0646\u0627\u0635\u0631\u0639\u0631\u0636 \u062c\u0630\u0627\u0628"
+            },
+            "subContentId": "565f017f-0336-480e-8be4-8dc4750dfc77",
+            "metadata": {
+              "contentType": "Free Text Question",
+              "license": "U",
+              "title": "\u0627\u0643\u062a\u0628 \u062a\u0639\u0644\u064a\u0642\u0643"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "label": "<p>\u0627\u0643\u062a\u0628 \u062a\u0639\u0644\u064a\u0642\u0643<\/p>"
+        },
+        {
+          "x": 30.845403977686207,
+          "y": 56.86722518405686,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 273.9, "to": 273.9 },
+          "libraryTitle": "True\/False Question",
+          "action": {
+            "library": "H5P.TrueFalse 1.8",
+            "params": {
+              "media": { "disableImageZooming": false },
+              "correct": "true",
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "confirmCheckDialog": true,
+                "confirmRetryDialog": true,
+                "autoCheck": false,
+                "feedbackOnCorrect": "\u0627\u062d\u0633\u0646\u062a",
+                "feedbackOnWrong": "\u062d\u0627\u0648\u0644 \u0645\u0631\u0629 \u0627\u062e\u0631\u0649"
+              },
+              "l10n": {
+                "trueText": "True",
+                "falseText": "False",
+                "score": "You got @score of @total points",
+                "checkAnswer": "Check",
+                "submitAnswer": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgain": "Retry",
+                "wrongAnswerMessage": "Wrong answer",
+                "correctAnswerMessage": "Correct answer",
+                "scoreBarLabel": "You got :num out of :total points",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p><strong>\u062a\u0633\u0627\u0639\u062f \u0627\u0644\u0648\u0633\u0627\u0626\u0637 \u0627\u0644\u0645\u062a\u0639\u062f\u062f\u0629 \u0639\u0644\u0649 \u062c\u0639\u0644 \u0627\u0644\u0639\u0631\u0636 \u0623\u0643\u062b\u0631 \u062a\u0634\u0648\u064a\u0642\u064b\u0627<\/strong><\/p>"
+            },
+            "subContentId": "3ebe6f02-ab6b-40c3-bedf-1ed41de67c83",
+            "metadata": {
+              "contentType": "True\/False Question",
+              "license": "U",
+              "title": "\u0635\u062d\/\u063a\u0644\u0637"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" },
+            "requireCompletion": false
+          },
+          "label": "<p>\u0635\u062d\/\u063a\u0644\u0637<\/p>"
+        },
+        {
+          "x": 94.82105667214648,
+          "y": 92.20614369129221,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 346, "to": 346.977 },
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": { "disableImageZooming": false },
+              "answers": [
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "<p>\u062d\u0627\u0648\u0644 \u0645\u0631\u0629 \u0627\u062e\u0631\u0649<\/p>",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div><strong>\u0625\u0637\u0627\u0644\u0629 \u0648\u0642\u062a \u0627\u0644\u0639\u0631\u0636<\/strong><\/div>"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "<p>\u062d\u0627\u0648\u0644 \u0645\u0631\u0629 \u0627\u062e\u0631\u0649<\/p>",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div><strong>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0644\u0648\u0646 \u0648\u0627\u062d\u062f \u0641\u0642\u0637<\/strong><\/div>"
+                },
+                {
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "<p>\u0627\u062d\u0633\u0646\u062a<\/p>",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div><strong>&nbsp; \u062c\u0630\u0628 \u0627\u0646\u062a\u0628\u0627\u0647 \u0627\u0644\u062c\u0645\u0647\u0648\u0631 \u0648\u062a\u0648\u0636\u064a\u062d \u0627\u0644\u0641\u0643\u0631\u0629<\/strong><\/div>"
+                },
+                {
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "<p>\u062d\u0627\u0648\u0644 \u0645\u0631\u0629 \u0627\u062e\u0631\u0649<\/p>",
+                    "chosenFeedback": "",
+                    "notChosenFeedback": ""
+                  },
+                  "text": "<div><strong>\u0639\u062f\u0645 \u0625\u0636\u0627\u0641\u0629 \u0639\u0646\u0627\u0648\u064a\u0646<\/strong><\/div>"
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "\u062c\u0630\u0628 \u0627\u0646\u062a\u0628\u0627\u0647 \u0627\u0644\u062c\u0645\u0647\u0648\u0631 \u0648\u062a\u0648\u0636\u064a\u062d \u0627\u0644\u0641\u0643\u0631\u0629"
+                }
+              ],
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "auto",
+                "singlePoint": false,
+                "randomAnswers": true,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p><strong>\u0627\u0644\u0647\u062f\u0641 &nbsp;\u0627\u0644\u0627\u0633\u0627\u0633\u0649 \u0645\u0646 \u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\u064a \u0627\u0644\u062c\u0630\u0627\u0628 \u0647\u0648<\/strong><\/p>"
+            },
+            "subContentId": "1b896d2e-23be-43b1-a513-0eed9ce2f002",
+            "metadata": {
+              "contentType": "Multiple Choice",
+              "license": "U",
+              "title": "\u0627\u062e\u062a\u064a\u0627\u0631 \u0645\u0646 \u0645\u062a\u0639\u062f\u062f"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" },
+            "requireCompletion": false
+          },
+          "label": "<p>\u0627\u062e\u062a\u064a\u0627\u0631 \u0645\u0646 \u0645\u062a\u0639\u062f\u062f<\/p>"
+        },
+        {
+          "x": 95.62075233082724,
+          "y": 91.3937547600914,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 438, "to": 454 },
+          "libraryTitle": "Statements",
+          "action": {
+            "library": "H5P.Summary 1.10",
+            "params": {
+              "intro": "<p><strong>\u0623\u064a \u0645\u0645\u0627 \u064a\u0644\u064a \u064a\u0633\u0627\u0639\u062f \u0639\u0644\u0649 \u0625\u0639\u062f\u0627\u062f \u0639\u0631\u0636 \u062a\u0642\u062f\u064a\u0645\u064a \u062c\u0630\u0627\u0628<\/strong><\/p>",
+              "summaries": [
+                {
+                  "subContentId": "1c871314-7918-4bb4-ab19-66c2a4513e55",
+                  "summary": [
+                    "<p>\u062a\u062d\u062f\u064a\u062f \u0641\u0643\u0631\u0629 \u0627\u0644\u0639\u0631\u0636<\/p>",
+                    "<p>\u0643\u062a\u0627\u0628\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0643\u062b\u064a\u0631\u0629<\/p>",
+                    "<p>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0644\u0648\u0627\u0646 \u063a\u064a\u0631 \u0645\u062a\u0646\u0627\u0633\u0642\u0647<\/p>",
+                    "<p>\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0646\u0635\u0648\u0635 \u0641\u0642\u0637<\/p>"
+                  ],
+                  "tip": ""
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "\u062a\u062d\u062f\u064a\u062f \u0641\u0643\u0631\u0629 \u0627\u0644\u0639\u0631\u0636"
+                }
+              ],
+              "solvedLabel": "Progress:",
+              "scoreLabel": "Wrong answers:",
+              "resultLabel": "Your result",
+              "labelCorrect": "Correct.",
+              "labelIncorrect": "Incorrect! Please try again.",
+              "alternativeIncorrectLabel": "Incorrect",
+              "labelCorrectAnswers": "Correct answers.",
+              "tipButtonLabel": "Show tip",
+              "scoreBarLabel": "You got :num out of :total points",
+              "progressText": "Progress :num of :total"
+            },
+            "subContentId": "92bd0d3f-7021-4633-8c73-0b70d9b6c3a4",
+            "metadata": {
+              "contentType": "Summary",
+              "license": "U",
+              "title": "\u0627\u062e\u062a\u0631 \u0627\u0644\u0639\u0628\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "adaptivity": {
+            "correct": { "allowOptOut": false, "message": "" },
+            "wrong": { "allowOptOut": false, "message": "" }
+          },
+          "label": "<p>\u0627\u062e\u062a\u0631 \u0627\u0644\u0639\u0628\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629&nbsp;<\/p>"
+        },
+        {
+          "x": 95.62075233082724,
+          "y": 92.20614369129221,
+          "width": 10,
+          "height": 10,
+          "duration": { "from": 497, "to": 499 },
+          "libraryTitle": "Multimedia Choice",
+          "action": {
+            "library": "H5P.MultiMediaChoice 0.3",
+            "params": {
+              "behaviour": {
+                "aspectRatio": "16to9",
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "singlePoint": false,
+                "showSolutionsRequiresInput": true,
+                "questionType": "auto",
+                "maxAlternativesPerRow": "4",
+                "passPercentage": 100
+              },
+              "media": { "disableImageZooming": false },
+              "options": [
+                {
+                  "media": {
+                    "params": {
+                      "decorative": false,
+                      "contentName": "Image",
+                      "expandImage": "Expand Image",
+                      "minimizeImage": "Minimize Image",
+                      "file": {
+                        "path": "images\/file-69c40c0ddd785.png",
+                        "mime": "image\/png",
+                        "copyright": { "license": "U" },
+                        "width": 192,
+                        "height": 192
+                      }
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                      "contentType": "Image",
+                      "license": "U",
+                      "title": "Untitled Image"
+                    },
+                    "subContentId": "4e3fea0b-ff2c-4609-831d-64636f188ac9"
+                  },
+                  "correct": false
+                },
+                {
+                  "media": {
+                    "params": {
+                      "decorative": false,
+                      "contentName": "Image",
+                      "expandImage": "Expand Image",
+                      "minimizeImage": "Minimize Image",
+                      "file": {
+                        "path": "images\/file-69c40c2fa0296.png",
+                        "mime": "image\/png",
+                        "copyright": { "license": "U" },
+                        "width": 512,
+                        "height": 512
+                      }
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                      "contentType": "Image",
+                      "license": "U",
+                      "title": "Untitled Image"
+                    },
+                    "subContentId": "7394b894-1235-40bb-9efc-ec281609079b"
+                  },
+                  "correct": false
+                },
+                {
+                  "media": {
+                    "params": {
+                      "decorative": false,
+                      "contentName": "Image",
+                      "expandImage": "Expand Image",
+                      "minimizeImage": "Minimize Image",
+                      "file": {
+                        "path": "images\/file-69c40c4bb9b5c.jpg",
+                        "mime": "image\/jpeg",
+                        "copyright": { "license": "U" },
+                        "width": 225,
+                        "height": 225
+                      }
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                      "contentType": "Image",
+                      "license": "U",
+                      "title": "Untitled Image"
+                    },
+                    "subContentId": "fea64c99-b9d0-481a-8a5b-4a1539dc5f30"
+                  },
+                  "correct": true
+                },
+                {
+                  "media": {
+                    "params": {
+                      "decorative": false,
+                      "contentName": "Image",
+                      "expandImage": "Expand Image",
+                      "minimizeImage": "Minimize Image",
+                      "file": {
+                        "path": "images\/file-69c40c728ab0c.jpg",
+                        "mime": "image\/jpeg",
+                        "copyright": { "license": "U" },
+                        "width": 875,
+                        "height": 535
+                      }
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                      "contentType": "Image",
+                      "license": "U",
+                      "title": "Untitled Image"
+                    },
+                    "subContentId": "57adf5c6-21eb-4943-a1d1-69d85ef7c1f0"
+                  },
+                  "correct": false
+                }
+              ],
+              "overallFeedback": [{ "from": 0, "to": 100 }],
+              "l10n": {
+                "checkAnswerButtonText": "Check",
+                "submitAnswerButtonText": "Submit",
+                "checkAnswer": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "showSolutionButtonText": "Show solution",
+                "showSolution": "Show the solution. The correct options will be marked.",
+                "correctAnswer": "Correct answer",
+                "wrongAnswer": "Wrong answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noAnswer": "Please answer before viewing the solution",
+                "retryText": "Retry",
+                "retry": "Retry the task. Reset all responses and start the task over again.",
+                "result": "You got :num out of :total points",
+                "missingAltText": "Alt text missing",
+                "closeModalText": "Close modal",
+                "confirmCheck": {
+                  "header": "Finish?",
+                  "body": "Are you sure you want to finish?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry?",
+                  "body": "Are you sure you wish to retry?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Retry"
+                }
+              },
+              "question": "<p><strong>\u0623\u064a \u0645\u0646 \u0627\u0644\u0635\u0648\u0631 \u0627\u0644\u0627\u062a\u064a\u0629: \u0628\u0631\u0646\u0627\u0645\u062c \u0645\u0639\u0627\u0644\u062c \u0627\u0644\u0643\u0644\u0645\u0627\u062a&nbsp;<\/strong><\/p>"
+            },
+            "subContentId": "63ec4e74-6339-4f5a-86b6-3d32e6bdb36f",
+            "metadata": {
+              "contentType": "Multimedia Choice",
+              "license": "U",
+              "title": "\u0627\u062e\u062a\u0631 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629"
+            }
+          },
+          "pause": true,
+          "displayType": "button",
+          "buttonOnMobile": false,
+          "label": "<p>\u0627\u062e\u062a\u0631 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629<\/p>"
+        }
+      ],
+      "endscreens": [
+        { "time": 209.23, "label": "3:29 Submit screen" },
+        { "time": 273.9, "label": "4:33 Submit screen" },
+        { "time": 349.67, "label": "5:49 Submit screen" },
+        { "time": 445.64, "label": "7:25 Submit screen" },
+        { "time": 500.19, "label": "8:20 Submit screen" }
+      ]
+    },
+    "summary": {
+      "task": {
+        "library": "H5P.Summary 1.10",
+        "params": {
+          "intro": "Choose the correct statement.",
+          "summaries": [
+            {
+              "subContentId": "5045fd4a-2911-4345-9d66-a658541d5c68",
+              "tip": ""
+            }
+          ],
+          "overallFeedback": [{ "from": 0, "to": 100 }],
+          "solvedLabel": "Progress:",
+          "scoreLabel": "Wrong answers:",
+          "resultLabel": "Your result",
+          "labelCorrect": "Correct.",
+          "labelIncorrect": "Incorrect! Please try again.",
+          "alternativeIncorrectLabel": "Incorrect",
+          "labelCorrectAnswers": "Correct answers.",
+          "tipButtonLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "progressText": "Progress :num of :total"
+        },
+        "subContentId": "1ea9ff92-01f9-410b-a89b-0cb65d97730c",
+        "metadata": {
+          "contentType": "Summary",
+          "license": "U",
+          "title": "Untitled Summary"
+        }
+      },
+      "displayAt": 3
+    }
+  },
+  "override": {
+    "autoplay": false,
+    "loop": false,
+    "showBookmarksmenuOnLoad": false,
+    "showRewind10": false,
+    "preventSkippingMode": "none",
+    "deactivateSound": false
+  },
+  "l10n": {
+    "interaction": "Interaction",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute, currently unmuted",
+    "unmute": "Unmute, currently muted",
+    "quality": "Video Quality",
+    "captions": "Captions",
+    "close": "Close",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit Fullscreen",
+    "summary": "Open summary dialog",
+    "bookmarks": "Bookmarks",
+    "endscreen": "Submit screen",
+    "defaultAdaptivitySeekLabel": "Continue",
+    "continueWithVideo": "Continue with video",
+    "more": "More player options",
+    "playbackRate": "Playback Rate",
+    "rewind10": "Rewind 10 Seconds",
+    "navDisabled": "Navigation is disabled",
+    "navForwardDisabled": "Navigating forward is disabled",
+    "sndDisabled": "Sound is disabled",
+    "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+    "back": "Back",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "currentTime": "Current time:",
+    "totalTime": "Total time:",
+    "singleInteractionAnnouncement": "Interaction appeared:",
+    "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+    "videoPausedAnnouncement": "Video is paused",
+    "content": "Content",
+    "answered": "@answered answered",
+    "endcardTitle": "@answered Question(s) answered",
+    "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+    "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+    "endcardInformationNoAnswers": "You have not answered any questions.",
+    "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+    "endcardSubmitButton": "Submit Answers",
+    "endcardSubmitMessage": "Your answers have been submitted!",
+    "endcardTableRowScore": "Score",
+    "endcardQuestion": "Question",
+    "endcardAnsweredScore": "answered",
+    "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+    "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+    "videoProgressBar": "Video progress",
+    "howToCreateInteractions": "Play the video to start creating interactions"
+  }
+}
